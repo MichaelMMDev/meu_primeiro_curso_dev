@@ -1,4 +1,4 @@
-<style>
+
         @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
        
         *{
@@ -9,12 +9,13 @@
     
 
         body{
-            background-color: rgb(87, 151, 230) ;
+            background-color: rgb(6, 10, 52) ;
+            font-family: "Black Ops One"
         }
 
         header{
             padding: 32px;
-            border-bottom: 5px solid #1eef68;
+            border-bottom: 5px solid #1b089b;
             background-color: rgba(0, 0, 0,0,1);
         
         }
@@ -26,29 +27,36 @@
             
         header div a {
 
-            color: rgb(3, 48, 102);
+            color: rgb(6, 9, 12);
             font-size: 20px ;
             line-height: 40px;
             margin: 0 16px;
             text-decoration: none;
-            .black-ops one-regular {
-  font-family: "Black Ops One", system-ui;
-  font-weight: 400;
-  font-style: normal;
-}
-
+           
             
         }
 
         header div a:hover{
 
-            color: #d50e40;
+            color: #33d50e;
             transition: color 700ms;
             
         }
 
         .links{
-            background-color:  rgb(30, 243, 112);
+            background-color:  rgb(34, 4, 91);
         }
 
-    </style>
+        #box {
+            text-align: center;
+            padding: 32px;
+        }
+        
+
+    #box img {
+        border-radius: 50%;
+        border: 10px solid #1b089b;
+
+    }
+
+        
