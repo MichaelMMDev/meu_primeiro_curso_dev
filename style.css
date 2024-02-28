@@ -9,13 +9,13 @@
     
 
         body{
-            background-color: rgb(6, 10, 52) ;
+            background-color: rgb(3, 2, 36) ;
             font-family: "Black Ops One"
         }
 
         header{
             padding: 32px;
-            border-bottom: 5px solid #1b089b;
+            border: 18px solid rgb(46, 4, 212);
             background-color: rgba(0, 0, 0,0,1);
         
         }
@@ -27,7 +27,7 @@
             
         header div a {
 
-            color: rgb(6, 9, 12);
+            color: yellow;
             font-size: 20px ;
             line-height: 40px;
             margin: 0 16px;
@@ -38,25 +38,48 @@
 
         header div a:hover{
 
-            color: #33d50e;
+            color: #13ef0b;
             transition: color 700ms;
             
         }
 
         .links{
-            background-color:  rgb(34, 4, 91);
+            background-color: rgb(194, 13, 13);
+            
         }
 
         #box {
             text-align: center;
             padding: 32px;
+            color: #33d50e;
         }
         
 
     #box img {
         border-radius: 50%;
-        border: 10px solid #1b089b;
+        border: 10px solid rgb(44, 6, 214);
+        margin-bottom: 32px;
+    }
 
+    #box h1{
+        font-size: 42px;
+        line-height: 52px;
+        font-weight: bold;
+    }
+    
+    #box h2{
+        font-size: 24px;
+        line-height: 34px;
+        font-weight: normal;
+        margin-top: 8px;
+        opacity: 0.8;
+    }
+
+    #box p{
+        max-width: 500px;
+        margin: 32px auto;
+        font-size: 24px;
+        line-height: 34px;
     }
 
         
