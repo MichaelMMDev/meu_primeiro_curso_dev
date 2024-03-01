@@ -9,13 +9,13 @@
     
 
         body{
-            background-color: rgb(3, 2, 36) ;
+            background-color: #035074;
             font-family: "Black Ops One"
         }
 
         header{
             padding: 32px;
-            border: 18px solid rgb(46, 4, 212);
+            border-bottom: 8px solid rgb(29, 3, 134);
             background-color: rgba(0, 0, 0,0,1);
         
         }
@@ -27,7 +27,7 @@
             
         header div a {
 
-            color: yellow;
+            color: rgb(41, 14, 178);
             font-size: 20px ;
             line-height: 40px;
             margin: 0 16px;
@@ -44,20 +44,20 @@
         }
 
         .links{
-            background-color: rgb(194, 13, 13);
+            background-color: orange;
             
         }
 
         #box {
             text-align: center;
             padding: 32px;
-            color: #33d50e;
+            color:orange ;
         }
         
 
     #box img {
         border-radius: 50%;
-        border: 10px solid rgb(44, 6, 214);
+        border: 5px solid rgb(25, 0, 255);
         margin-bottom: 32px;
     }
 
