@@ -6,4 +6,6 @@ const nomeDoAluno1 = "joão"
 const nomeDoAluno2 = "pedrinho"
 
 const media = (notaDoAluno1+nomeDoAluno2+notaDoaluno3/2)
-console.log= (media)
+console.log(media)
+
+console.log(nomeDoAluno1)
