@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // str = a nome, templare str = nome2 e nome3, na templare eu posso chamar outras variáveis.
 
 const nome= 'mchael22';
@@ -34,3 +35,16 @@ if (media >5  ){
 else{
     console.log(`O resultado da turma não foi satisfatório: ${media}, a turma deve estudar mais.`)
 }
+=======
+const notaDoAluno1 =5;
+const notaDoaluno2 = 8;
+const notaDoaluno3 = 8;
+
+const nomeDoAluno1 = "joão"
+const nomeDoAluno2 = "pedrinho"
+
+const media = (notaDoAluno1+nomeDoAluno2+notaDoaluno3/2)
+console.log(media)
+
+console.log(nomeDoAluno1)
+>>>>>>> 08055242ca53584b92e54e15638304a247923cab
