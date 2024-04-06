@@ -58,7 +58,7 @@
         
 
     #box img {
-        border-radius: 50%;
+        border-radius: 100%;
         border: 5px solid rgb(25, 0, 255);
         margin-bottom: 32px;
     }
@@ -83,7 +83,24 @@
         font-size: 24px;
         line-height: 32px;
         
+        
+        
     }
+    #box a{
+        color: rgb(41, 14, 178);
+        font-size: 25px ;
+        line-height: 40px;
+        margin: 0 16px;
+        text-decoration: none;
+    }
+
+    
+    #box a:hover{
+        transition: color 700ms;
+        color: black;
+        
+    }
+
     
 
     #linksfooter{
