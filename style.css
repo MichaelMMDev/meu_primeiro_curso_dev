@@ -17,7 +17,7 @@
 
         header{
             padding: 32px;
-            border-bottom: 8px solid rgb(29, 3, 134);
+            border-bottom: 8px solid rgb(24, 6, 95);
             background-color: rgba(0, 0, 0,0,1);
         
         }
@@ -59,7 +59,7 @@
 
     #box img {
         border-radius: 100%;
-        border: 5px solid rgb(25, 0, 255);
+        border: 5px solid rgb(11, 2, 89);
         margin-bottom: 32px;
     }
 
@@ -87,7 +87,7 @@
         
     }
     #box a{
-        color: rgb(41, 14, 178);
+        color: rgb(242, 241, 247);
         font-size: 25px ;
         line-height: 40px;
         margin: 0 16px;
