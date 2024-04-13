@@ -11,12 +11,12 @@
     
 
         body{
-            background-color: #035074;
+            background-color: #0d0f36;
             font-family: "Black Ops One"
         }
 
         header{
-            padding: 32px;
+            padding: 3px;
             border-bottom: 8px solid rgb(24, 6, 95);
             background-color: rgba(0, 0, 0,0,1);
         
@@ -103,6 +103,22 @@
         
     }
     
+    .caixa {
+        background-color: #2653E5;
+        text-align: center;
+        font-size: 16px ;
+        line-height: 16px;
+        margin: 0 100px;
+        padding: 16px;
+        
+        
+    }
+    .caixa h3{
+        color: black;
+    }
+
+    
+    
     /* === cards inicio ===*/
     
 
@@ -115,7 +131,7 @@
     }
     
     .cards{
-        background-color: purple;
+        background-color: #294380;
     }
     .card_image img{
         width: 100%;
@@ -131,7 +147,7 @@
     }
 
     .card_prince{
-        background-color: purple;
+        background-color: #69d2cd;
         filter: brightness(90%);
         padding: 5px 20px;
         border-radius: 20px;
